@@ -9,7 +9,10 @@
 6、AI智能结果分析会议成果
 
 会联星使用网址：https://www.nbkern.com/voting
+
 科恩智能官方网址：https://www.nbkern.com
+
+
 
 软件界面
 
@@ -33,12 +36,12 @@ Q&A议题匿名问答
 
 预发布整个会议，提前收集匿名投票或Q&A
 
-<img src="https://raw.githubusercontent.com/fdsuhifhudshuig/MEETBOT/refs/heads/main/175205e5bb14a73b1d9bfc428037c17c.png" width="900">
+<img src="https://raw.githubusercontent.com/fdsuhifhudshuig/MEETBOT/refs/heads/main/175205e5bb14a73b1d9bfc428037c17c.png" width="400">
 
 AI根据会议资料，自动出投票议题
 
-<img src="https://raw.githubusercontent.com/fdsuhifhudshuig/MEETBOT/refs/heads/main/49beb03c9f27e582a4828d241ae02c7b.png" width="900">
+<img src="https://raw.githubusercontent.com/fdsuhifhudshuig/MEETBOT/refs/heads/main/49beb03c9f27e582a4828d241ae02c7b.png" width="400">
 
 AI自动分析会议效果
 
-<img src="https://raw.githubusercontent.com/fdsuhifhudshuig/MEETBOT/refs/heads/main/80a74c779163bccbeb97a75ba9165833.png" width="900">
+<img src="https://raw.githubusercontent.com/fdsuhifhudshuig/MEETBOT/refs/heads/main/80a74c779163bccbeb97a75ba9165833.png" width="400">
